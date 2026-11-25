@@ -1,0 +1,10 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="evaluation 18088" type="Application" factoryName="Application" allowRunningInParallel="true">
+    <option name="MAIN_CLASS_NAME" value="com.dynamika.buildwise.evaluation.EvaluationApplication" />
+    <module name="evaluation" />
+    <option name="PROGRAM_PARAMETERS" value="--server.port=18088" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
